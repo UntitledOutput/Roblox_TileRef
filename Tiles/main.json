@@ -1,6 +1,6 @@
 {
-    "Tile1":{"Type":"Grass","Color":"Parsley Green"},
-    "Tile2":{"Type":"Grass","Color":"Parsley Green"},
-    "Tile3":{"Type":"Grass","Color":"Parsley Green"},
-    "Tile4":{"Type":"Grass","Color":"Parsley Green"}
+    "Tile1":{"Type":"Grass","Color":"46, 112, 10"},
+    "Tile2":{"Type":"Grass","Color":"46, 112, 10"},
+    "Tile3":{"Type":"Grass","Color":"46, 112, 10"},
+    "Tile4":{"Type":"Grass","Color":"46, 112, 10"}
 }
