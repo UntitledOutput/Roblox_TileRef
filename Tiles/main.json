@@ -1,1 +1,6 @@
-{}
+{
+    "Tile1":{"Type":"Grass","Color":"Parsley Green"},
+    "Tile2":{"Type":"Grass","Color":"Parsley Green"},
+    "Tile3":{"Type":"Grass","Color":"Parsley Green"},
+    "Tile4":{"Type":"Grass","Color":"Parsley Green"}
+}
