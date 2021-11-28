@@ -1,6 +1,6 @@
 {
-    "Tile1":{"Type":"Grass","Color":{"r":46, "g":112, "b":10}},
-    "Tile2":{"Type":"Grass","Color":{"r":46, "g":112, "b":10}},
-    "Tile3":{"Type":"Grass","Color":{"r":46, "g":112, "b":10}},
-    "Tile4":{"Type":"Grass","Color":{"r":46, "g":112, "b":10}}
+    "Tile1":{"Type":"Grass","Color":{"r":46, "g":112, "b":10},"Model":"None"},
+    "Tile2":{"Type":"Grass","Color":{"r":46, "g":112, "b":10},"Model":"None"},
+    "Tile3":{"Type":"Grass","Color":{"r":46, "g":112, "b":10},"Model":"Noob"},
+    "Tile4":{"Type":"Grass","Color":{"r":46, "g":112, "b":10},"Model":"None"}
 }
